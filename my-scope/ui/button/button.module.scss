@@ -1,0 +1,15 @@
+.button {
+  border-radius: 5px;
+  height: 46px;
+  text-align: center;
+
+  &[data-variation='primary'] {
+    color: white;
+    background-color: #2c8ebb;
+  }
+
+  &[data-variation='secondary'] {
+    color: black;
+    background-color: #7e6a6a;
+  }
+}

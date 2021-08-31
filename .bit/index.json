@@ -1,0 +1,21 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": null,
+        "name": "ui/button"
+      },
+      "isSymlink": true,
+      "hash": "6e10f814d61b688ebc8b59fb617ad611ff01d70c"
+    },
+    {
+      "id": {
+        "scope": "pro-bit.pro-work-space",
+        "name": "ui/button"
+      },
+      "isSymlink": false,
+      "hash": "ed5448acdae66559a6ab9b476bef477db15a6b73"
+    }
+  ],
+  "lanes": []
+}

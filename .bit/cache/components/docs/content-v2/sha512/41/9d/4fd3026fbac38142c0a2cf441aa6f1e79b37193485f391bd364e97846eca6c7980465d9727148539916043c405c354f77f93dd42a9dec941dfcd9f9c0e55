@@ -1,0 +1,1 @@
+[{"filePath":"button.tsx","name":"Button","description":"","properties":[{"name":"variation","description":"","required":true,"type":"'primary' | 'secondary'"},{"name":"text","description":"","required":true,"type":"string"}],"access":"public","methods":[],"args":[],"examples":[]}]
